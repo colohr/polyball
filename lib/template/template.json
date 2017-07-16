@@ -1,0 +1,8 @@
+{
+  "scripts":[
+    "poly/lodash.js",
+    "poly/fxy.js",
+    "poly/manifest.js",
+    "poly/element.js"
+  ]
+}

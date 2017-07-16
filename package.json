@@ -1,0 +1,27 @@
+{
+  "name": "polyball",
+  "version": "0.0.1",
+  "description": "Polymer 2 App Packager",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colohr/polyball.git"
+  },
+  "keywords": [],
+  "author": "colohr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colohr/polyball/issues"
+  },
+  "homepage": "https://github.com/colohr/polyball#readme",
+  "dependencies": {
+    "calipers": "^2.0.0",
+    "calipers-gif": "^2.0.0",
+    "calipers-jpeg": "^2.0.0",
+    "calipers-png": "^2.0.0",
+    "calipers-svg": "^2.0.0",
+    "jsdom": "^11.0.0",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {}
+}

@@ -1,35 +1,16 @@
-BXY
+POLYBALL
 =============
 
-Install `bxy` 
+Install `polyball` 
 -------------
 ```
-  npm i bxy
+  npm uninstall polyball
 ```
 
-OS
--------------
-```js
-const bxy = require('bxy')
-
-
-
-
-//os
-OS = ``
-```
-
-
-
-
-BXY
+Use
 -------------
 ```js
-const bxy = require('bxy')
+const polyball = require('polyball')
 
 
-
-
-//unique to bxy
-BXY = ``
 ```

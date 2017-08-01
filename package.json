@@ -15,11 +15,13 @@
   },
   "homepage": "https://github.com/colohr/polyball#readme",
   "dependencies": {
+    "babel-core": "^6.25.0",
     "calipers": "^2.0.0",
     "calipers-gif": "^2.0.0",
     "calipers-jpeg": "^2.0.0",
     "calipers-png": "^2.0.0",
     "calipers-svg": "^2.0.0",
+    "fxy": "^0.1.5",
     "jsdom": "^11.0.0",
     "yargs": "^8.0.2"
   },

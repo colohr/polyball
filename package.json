@@ -1,6 +1,6 @@
 {
   "name": "polyball",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "Polymer 2 App Packager",
   "main": "./index.js",
   "repository": {

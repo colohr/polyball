@@ -1,28 +1,28 @@
 {
   "company":{
     "contact":{
-      "email":"",
+      "email":"contact@email.com",
       "extension":null,
       "fax":null,
       "person":null,
-      "phone":"501-463-4965",
+      "phone":"555-124-4567",
       "website":null
     },
-    "category":"Medical Services",
+    "category":"Company Category",
     "location":{
-      "city":"Hot Springs",
+      "city":"City",
       "country":"United States of America",
-      "county":"Garland",
-      "number":113,
-      "street":"Nickels Street",
+      "county":"Country",
+      "number":1,
+      "street":"Street Name",
       "street_extra":null,
-      "zip":71901,
-      "state":"AR"
+      "zip":12234,
+      "state":"CA"
     },
-    "name":"Freedom Chiropractic",
-    "type":"Chiropractic Care"
+    "name":"Company Name",
+    "type":"Type of Company Business"
   },
-  "description":"Welcome To Freedom Chiropractic The mission of FCC is to be the epicenter for the Great Physician's work so that our community can live subluxation free to serve one another with love. I am a loving wife, second generation Chiropractor, and Army veteran that has proudly served our nation in Iraq. My solution to health ...",
+  "description":"My website is about...",
   "elements":"custom-elements",
   "favicon":"graphics/favicon.icon",
   "fragments":"custom-elements/pages",
@@ -30,14 +30,14 @@
   "google":{
     "fonts":"https://fonts.googleapis.com/css?family=Alice|Dancing+Script:400,700|Domine:400,700|Fjalla+One|Neuton:200,300,400,400i,700,800|Palanquin+Dark:400,500,600,700|Playfair+Display:400,400i,700,700i,900,900i",
     "site":{
-      "verification":"cXx20ZL-2zewJlf8DVZlaTlMIHcYCAFAsOc7FLq_PRQ"
+      "verification":"google-verification"
     }
   },
   "icons":"graphics/manifest",
   "modules":"modules",
 
   "style":"<style> body { margin: 0; font-family: 'Playfair Display', serif; font-size: 16px; letter-spacing: 0.023em; font-weight: normal; line-height: 1.5; min-height: 100vh; color:#393534; background-color: #ffffff; } </style>",
-  "tag":"freedom-chiro",
-  "title":"Freedom Chiropractic",
-  "url":"http://www.freedomchirohs.com/"
+  "tag":"web-component-tag",
+  "title":"My Site Title",
+  "url":"http://www.mywebsite.com/"
 }
